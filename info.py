@@ -42,9 +42,9 @@ DATABASE_NAME = environ.get('DATABASE_NAME', 'angel-luciferbot')
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'lucifer_files')
 
 # Channel Button Links
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/Cynite_movies_group12')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/Technical_rakesh_01')
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/Cynite_movies_group12')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/nvshdmovielink')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/tgnvs')
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'hhttps://t.me/+NMvVhTn9A7ljODNl')
 MSG_ALRT = environ.get('MSG_ALRT', 'Share and Support Us ❣ @tgnvs')
 
 # Custom Chats
