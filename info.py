@@ -48,7 +48,7 @@ SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'hhttps://t.me/+NMvVhTn9A7ljODNl')
 MSG_ALRT = environ.get('MSG_ALRT', 'Share and Support Us ❣ @tgnvs')
 
 # Custom Chats
-SUPPORT_GROUP = int(environ.get('SUPPORT_GROUP', 'tgnvs'))
+SUPPORT_GROUP = (environ.get('SUPPORT_GROUP', 'tgnvs')
 FILE_CHANNEL = int(environ.get('FILE_CHANNEL', RQST_LOG_CHANNEL))
 FILE_CHANNEL_LINK = environ.get('FILE_CHANNEL_LINK', 'https://t.me/+hT_0ruEiIDxmNTVl')
 HOW_DWLD_LINK = environ.get('HOW_DWLD_LINK', 'https://t.me/nvsmovielink/21')
